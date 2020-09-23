@@ -15,10 +15,9 @@
 .over-ride-color {
   color: white !important;
 }
-/* .fas {
-  position: relative;
-  right: 26.5px;
-} */
+article strong {
+  text-align: center;
+}
 html,
 body,
 div,
