@@ -3977,7 +3977,7 @@ li .button {
   min-height: 150px;
   display: flex;
   flex-direction: column;
-  overflow: scroll;
+  overflow: auto;
   align-items: center;
 }
 #posts strong {
