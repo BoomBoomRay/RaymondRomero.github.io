@@ -4069,7 +4069,7 @@ li .button {
   }
 
   #main > .posts > article:nth-child(n) {
-    border-left-width: 0;
+    /* border-left-width: 0; */
   }
 
   #main > .posts > article:nth-child(-n + 1) {
