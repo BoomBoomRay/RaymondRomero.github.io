@@ -3888,6 +3888,13 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   margin-bottom: 0;
 }
 
+.navContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5px;
+}
+
 @media screen and (max-width: 980px) {
   #nav {
     display: none;
@@ -3973,7 +3980,7 @@ li .button {
 }
 #posts p {
   color: white;
-  /* max-height: 150px; */
+  max-height: 150px;
   min-height: 150px;
   display: flex;
   flex-direction: column;
